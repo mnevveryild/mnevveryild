@@ -11,7 +11,9 @@
 
 - 📫 How to reach me **mnevveryldrm01@gmail.com**
 
-- 📄 Know about my experiences [linkedin.com/in/münevver-yıldırım](linkedin.com/in/münevver-yıldırım)
+- 📄 Know about my experiences www.linkedin.com/in/
+münevver-yıldırım
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
