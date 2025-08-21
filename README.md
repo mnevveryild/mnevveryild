@@ -21,8 +21,24 @@
 <a href="https://medium.com/@mnevveryld05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mnevveryld05" height="30" width="40" /></a>
 </p>
 
+### 📊 GitHub Stats
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mnevveryild&show_icons=true&locale=en&layout=compact" alt="mnevveryild" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mnevveryild&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mnevveryild&theme=radical" alt="GitHub Streak" onerror="this.style.display='none'"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnevveryild&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+
+
+
+
 
 
 
