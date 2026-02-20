@@ -1,13 +1,4 @@
-
-
-
-
-
-
-
-<h1 align="center">Hi 👋, I'm Münevver</h1>
-<h3 align="center">I'm a Computer Engineering Student.</h3>
-
+<h3> Hi, I'm Münevver <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h3>
 
 - 📫 How to reach me **mnevveryldrm01@gmail.com**
 
@@ -21,11 +12,7 @@
 <a href="https://medium.com/@mnevveryld05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mnevveryld05" height="30" width="40" /></a>
 </p>
 
-### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnevveryild&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 
 
