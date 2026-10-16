@@ -25,13 +25,7 @@ I design and build AI-powered applications, from retrieval pipelines to agents t
 
 ## Focus areas
 
-| Building | Exploring |
-|---|---|
-| AI agents | LangChain |
-| LLM applications | LangGraph |
-| FastAPI services | RAG pipelines |
-| AI-powered web apps | Agent architectures |
-
+- I’m currently leearning on Artificial Intelligence, LangChain, RAG, LangGraph, AI Agents
 
 ## Let's connect
 
