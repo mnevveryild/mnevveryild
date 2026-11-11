@@ -1,38 +1,40 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:06B6D4&height=200&section=header&text=M%C3%BCnevver%20Y%C4%B1ld%C4%B1r%C4%B1m&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Yapay%20Zek%C3%A2%20%26%20Agentic%20AI%20Geli%C5%9Ftiricisi&descSize=18&descAlignY=56&animation=fadeIn" width="100%" alt="Münevver Yıldırım">
+
 <div align="center">
 
-# Hi, I'm Münevver 👋
-
-### AI & Agentic AI Developer
-
-Building LLM applications and AI agents with Python, LangChain and LangGraph.
-
-<br>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Chroma](https://img.shields.io/badge/Chroma-FF6446?style=flat-square)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=LLM+uygulamalar%C4%B1+geli%C5%9Ftiriyorum;D%C3%BC%C5%9F%C3%BCnen+ve+ara%C3%A7+kullanan+AI+ajanlar%C4%B1;RAG+%E2%80%A2+LangChain+%E2%80%A2+LangGraph;%C3%9Creterek+%C3%B6%C4%9Freniyorum" alt="Yazı animasyonu">
 
 </div>
 
----
+## 🙋‍♀️ Hakkımda
 
-## About
+Python, LangChain ve LangGraph ile LLM tabanlı uygulamalar geliştiriyorum. Doğru bilgiyi bulup getiren RAG sistemlerinden, adım adım düşünüp karar veren ajanlara kadar yapay zekânın gerçek bir işe yaradığı çözümler üretmeyi seviyorum.
 
-I design and build AI-powered applications, from retrieval pipelines to agents that can reason, use tools and check their own answers. I learn by building, and I keep my projects small, readable and well documented.
+Üreterek öğreniyorum. Projelerimi küçük, okunabilir ve iyi belgelenmiş tutmaya özen gösteriyorum.
 
-## Focus areas
+## 🎯 Şu an odaklandıklarım
 
-- I’m currently leearning on Artificial Intelligence, LangChain, RAG, LangGraph, AI Agents
+- 🔍 **RAG:** belgelerden doğru bilgiyi bulup kaynağıyla sunan sistemler
+- 🤖 **AI Ajanları:** araç kullanan, plan yapan ve kendi çıktısını doğrulayan ajanlar
+- 🔗 **LangChain & LangGraph:** çok adımlı, durum tutan LLM iş akışları
 
-## Let's connect
+## 🛠️ Teknolojiler
 
-<a href="https://www.linkedin.com/in/m%C3%BCnevver-y%C4%B1ld%C4%B1r%C4%B1m">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="mailto:mnevveryldrm01@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-</a>
+<p align="center">
+<img src="assets/python.svg" width="50" alt="Python" title="Python">&nbsp;&nbsp;
+<img src="assets/langchain.svg" width="50" alt="LangChain" title="LangChain">&nbsp;&nbsp;
+<img src="assets/langgraph.svg" width="50" alt="LangGraph" title="LangGraph">&nbsp;&nbsp;
+<img src="assets/fastapi.svg" width="50" alt="FastAPI" title="FastAPI">&nbsp;&nbsp;
+<img src="assets/openai.svg" width="50" alt="OpenAI" title="OpenAI">&nbsp;&nbsp;
+<img src="assets/chroma.svg" width="50" alt="Chroma" title="Chroma">
+</p>
 
+## 🤝 Bağlantıda kalalım
+
+<p align="center">
+<a href="https://www.linkedin.com/in/m%C3%BCnevver-y%C4%B1ld%C4%B1r%C4%B1m"><img src="assets/linkedin.svg" width="50" alt="LinkedIn" title="LinkedIn"></a>&nbsp;&nbsp;
+<a href="https://medium.com/@mnevveryldrm01"><img src="assets/medium.svg" width="50" alt="Medium" title="Medium"></a>&nbsp;&nbsp;
+<a href="mailto:mnevveryldrm01@gmail.com"><img src="assets/email.svg" width="50" alt="E-posta" title="E-posta"></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6D28D9&height=110&section=footer" width="100%" alt="">
