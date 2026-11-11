@@ -22,13 +22,11 @@ Düşünen, araç kullanan ve kendi cevabını kontrol eden yapay zekâ ajanlar�
 
 ## Hakkımda
 
-Python, LangChain ve LangGraph ile LLM tabanlı uygulamalar geliştiriyorum. Doğru bilgiyi bulup getiren RAG sistemlerinden, adım adım düşünüp karar veren ajanlara kadar yapay zekânın gerçek bir işe yaradığı çözümler üretmeyi seviyorum.
+Python, LangChain ve LangGraph ile LLM tabanlı uygulamalar geliştiriyorum. Doğru bilgiyi bulup getiren RAG sistemlerinden adım adım düşünüp karar veren ajanlara kadar, yapay zekânın gerçekten işe yaradığı çözümler üretmeyi seviyorum.
 
-Üreterek öğreniyorum. Projelerimi küçük, okunabilir ve iyi belgelenmiş tutmaya özen gösteriyorum.
+Üreterek öğreniyorum. Yeni teknolojileri yakından takip ediyor, projelerimde uygulayarak pekiştiriyorum. Projelerimi küçük, okunabilir ve iyi belgelenmiş tutmaya özen gösteriyorum.
 
-Yeni teknolojileri takip ediyor ve projelerimde uygulayarak pekiştiriyorum.
-
-Şu anda odak noktam Yapay Zeka olsa da projelerimi sunabileceğim arayüz tasarımlarımla da kullanım kalitesini arttırmayı hedefliyorum. Projelerimi FastAPI ve Angular ile geliştiriyorum. 
+Odak noktam yapay zekâ olsa da projelerimin kullanıcıya nasıl ulaştığını da önemsiyorum. Backend’de FastAPI, arayüzde Angular kullanarak geliştirdiğim yapay zekâ çözümlerini kullanımı kolay uygulamalara dönüştürmeyi hedefliyorum.
 
 
 ## Şu an odaklandıklarım
