@@ -35,7 +35,7 @@ Odak noktam yapay zekâ olsa da projelerimin kullanıcıya nasıl ulaştığın�
 - **AI Ajanları:** araç kullanan, plan yapan ve kendi çıktısını doğrulayan ajanlar
 - **LangChain & LangGraph:** çok adımlı, durum tutan LLM iş akışları
 
-## Benime iletişime geçebilirsiniz :)
+## Benime iletişime geçmek isterseniz :)
 
 <div align="center">
 
